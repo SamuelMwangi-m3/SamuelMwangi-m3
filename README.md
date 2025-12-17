@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m currently working on<br>Junior-level full-stack projects, improving existing applications, fixing bugs, and building features under real-world constraints.<br><br>👯 I’m looking to collaborate on<br>Entry-level and open-source projects where I can learn from experienced developers, follow best practices, and contribute consistently.<br><br>🤝 I’m looking for help with<br>Code reviews, mentorship, and exposure to production-level workflows and team collaboration.<br><br>🌱 I’m currently learning<br>Core full-stack fundamentals, clean code practices, version control workflows, APIs, and basic system design.<br><br>💬 Ask me about<br>JavaScript basics, frontend & backend fundamentals, debugging, and learning paths for junior developers.<br><br>⚡ Fun fact<br>I learn fast, take feedback seriously, and prefer shipping working features over over-engineering.
 
 
@@ -15,7 +15,7 @@ I’m currently working on<br>Junior-level full-stack projects, improving existi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SamuelMwangi-m3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
